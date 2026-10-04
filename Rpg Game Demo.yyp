@@ -25,8 +25,11 @@
   },
   "name":"Rpg Game Demo",
   "resources":[
+    {"id":{"name":"BlobTheBully","path":"objects/BlobTheBully/BlobTheBully.yy",},},
+    {"id":{"name":"Enemy_Manager","path":"objects/Enemy_Manager/Enemy_Manager.yy",},},
     {"id":{"name":"PlayerCharacter","path":"objects/PlayerCharacter/PlayerCharacter.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"BlobTheBullySprite","path":"sprites/BlobTheBullySprite/BlobTheBullySprite.yy",},},
     {"id":{"name":"DebugTileMap","path":"sprites/DebugTileMap/DebugTileMap.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
